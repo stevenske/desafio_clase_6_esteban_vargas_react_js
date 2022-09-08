@@ -1,0 +1,25 @@
+.text-ice {
+    color: rgb(38, 41, 79);
+    text-decoration: none;
+}
+
+.zoom {
+    transition: 300ms;
+}
+.zoom:hover {
+    transform: scale(1.1);
+}
+
+.bg-ice{
+    background-color: #918bd573;
+}
+
+.navDeco a{
+    transition: 300ms;
+}
+
+.navDeco a:hover{
+    color: rgb(236, 113, 130);
+    border-bottom: 1px solid;
+    padding-bottom: 0.5rem;
+}
